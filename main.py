@@ -32,7 +32,7 @@ headers={
 }
 
 for i in range(numbers):
-    Write.Print(f"Creating webhook {i+1}...", Colors.blue_to_cyan,interval=0)
+    Write.Print(f"Creating webhook {i+1}...\n", Colors.blue_to_cyan,interval=0)
     r = requests.post(url, json=name,headers=headers)
 
 if r.status_code == 200:
