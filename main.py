@@ -2,7 +2,7 @@
 # You are responsible for your own actions.
 # Iam not responsible for your actions.
 # Use this code at your own risk.
-# Made by DISCORD : arandomguyin2024 | GITHUB : arandomguyin2024
+# Made by DISCORD : arandomguyin2024 | 
 import requests
 from pystyle import Write, Colors
 Write.Print("""
