@@ -3,6 +3,10 @@
 # Iam not responsible for your actions.
 # Use this code at your own risk.
 # Made by DISCORD : arandomguyin2024 | 
+if os.name == 'nt':
+ os.system('cls')
+else:
+ os.system('clear')
 import requests
 from pystyle import Write, Colors
 Write.Print("""
