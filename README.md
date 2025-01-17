@@ -3,7 +3,7 @@
 
 # 🔥 **Discord Webhook Creator** 🔥
 
-Welcome to the **Discord Webhook Creator**! 🧑‍💻✨ This Python script allows you to create **multiple webhooks** for a specific Discord channel by providing your **Discord token**, **channel ID**, and **webhook name**. It uses the **Discord API** to generate webhooks, and it's mainly intended for **educational purposes**. 🚀
+✨ This Python script allows you to create **multiple webhooks** for a specific Discord channel by providing your **Discord token**, **channel ID**, and **webhook name**. It uses the **Discord API** to generate webhooks, and it's mainly intended for **educational purposes**. 🚀
 
 ⚠️ **Disclaimer**:  
 This script is made for **educational purposes only**. The creator is **not responsible** for any misuse or violation of Discord's Terms of Service. **Use this script at your own risk!** 🔥
